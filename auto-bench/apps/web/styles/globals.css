@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light dark;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 min-h-screen;
+  background: radial-gradient(circle at top left, rgba(60,79,255,0.15), transparent 55%),
+    radial-gradient(circle at bottom right, rgba(12,18,64,0.95), rgba(7,10,32,1) 60%);
+}
+
+a {
+  @apply text-brand-300 hover:text-brand-200 transition-colors;
+}
+
+main {
+  @apply min-h-screen;
+}
