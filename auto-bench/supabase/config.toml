@@ -1,0 +1,14 @@
+[functions]
+netlify = false
+
+[functions.generate_daily_tasks]
+verify_jwt = false
+
+[functions.dispatch_and_collect]
+verify_jwt = false
+
+[functions.pair_generator]
+verify_jwt = false
+
+[functions.submit_vote]
+verify_jwt = false

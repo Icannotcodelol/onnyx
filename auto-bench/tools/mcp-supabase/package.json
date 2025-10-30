@@ -1,0 +1,22 @@
+{
+  "name": "mcp-supabase",
+  "version": "0.1.0",
+  "private": true,
+  "bin": {
+    "mcp-supabase": "dist/server.js"
+  },
+  "scripts": {
+    "build": "tsup src/server.ts --format esm,cjs --dts --clean",
+    "dev": "ts-node-esm src/server.ts"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.43.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "ts-node": "^10.9.2",
+    "tsup": "^7.2.0",
+    "typescript": "^5.3.3"
+  },
+  "type": "module"
+}

@@ -106,7 +106,7 @@ MCP_SUPABASE_SERVICE_KEY=${SUPABASE_SERVICE_ROLE_KEY}
     components/{Header,Footer,ArtifactViewer,CodeViewer,VoteWidget}.tsx
     lib/{supabaseClient.ts,fetchers.ts,ui.ts}
     styles/globals.css
-    public/{logo.svg,og.png}
+    public/logo.svg
 
   /services/dispatcher
     src/index.ts
