@@ -1,0 +1,36 @@
+
+> web@0.1.0 build /Users/maxhenkes/Desktop/onyx/auto-bench/apps/web
+> next build
+
+   ▲ Next.js 14.1.0
+   - Environments: .env.local
+   - Experiments (use at your own risk):
+     · externalDir
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/6) ...
+   Generating static pages (1/6) 
+   Generating static pages (2/6) 
+   Generating static pages (4/6) 
+ ✓ Generating static pages (6/6) 
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    974 B          92.2 kB
+├ ○ /_not-found                          891 B          85.4 kB
+├ λ /arena                               2.11 kB        91.7 kB
+├ ○ /leaderboard                         98.1 kB         183 kB
+└ λ /task/[id]                           241 kB          330 kB
++ First Load JS shared by all            84.5 kB
+  ├ chunks/8b1af1a0-1285e050eec474ac.js  53.4 kB
+  ├ chunks/999-e018c0d635dd9cfb.js       29.1 kB
+  └ other shared chunks (total)          2.01 kB
+
+
+○  (Static)   prerendered as static content
+λ  (Dynamic)  server-rendered on demand using Node.js
+

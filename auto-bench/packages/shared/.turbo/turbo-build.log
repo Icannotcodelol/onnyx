@@ -1,0 +1,19 @@
+
+> @autobench/shared@0.1.0 build /Users/maxhenkes/Desktop/onyx/auto-bench/packages/shared
+> tsup src/index.ts --format esm,cjs --dts --clean
+
+CLI Building entry: src/index.ts
+CLI Using tsconfig: tsconfig.json
+CLI tsup v7.3.0
+CLI Target: es2020
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/index.js 2.28 KB
+ESM ⚡️ Build success in 20ms
+CJS dist/index.cjs 4.17 KB
+CJS ⚡️ Build success in 21ms
+DTS Build start
+DTS ⚡️ Build success in 730ms
+DTS dist/index.d.ts  5.56 KB
+DTS dist/index.d.cts 5.56 KB

@@ -1,0 +1,216 @@
+2025-10-30T21:02:19.215696Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie"), AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2025-10-30T21:02:19.215706Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-30T21:05:17.911749Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/tsconfig.json")}
+2025-10-30T21:05:17.911763Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T21:07:00.012147Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2025-10-30T21:07:00.012189Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-30T21:07:22.112199Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/3.cookie")}
+2025-10-30T21:07:22.112208Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-30T21:07:39.911996Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/4.cookie")}
+2025-10-30T21:07:39.912014Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-30T21:09:36.112924Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/index.ts")}
+2025-10-30T21:09:36.112936Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:09:41.012108Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/runTask.ts")}
+2025-10-30T21:09:41.012119Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:09:47.912348Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/index.ts")}
+2025-10-30T21:09:47.912358Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:10:08.012597Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/index.ts")}
+2025-10-30T21:10:08.012607Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:10:12.212682Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/openai.ts")}
+2025-10-30T21:10:12.212692Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:10:16.212253Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/anthropic.ts")}
+2025-10-30T21:10:16.212261Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:10:33.312224Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/google.ts")}
+2025-10-30T21:10:33.312234Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:10:38.112401Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/deepseek.ts")}
+2025-10-30T21:10:38.112410Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:10:49.212447Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/src/index.ts")}
+2025-10-30T21:10:49.212457Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T21:12:53.612655Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/index.ts")}
+2025-10-30T21:12:53.612663Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:13:00.811881Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/runTask.ts")}
+2025-10-30T21:13:00.811891Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:13:08.313121Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/index.ts")}
+2025-10-30T21:13:08.313129Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:13:13.312843Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/openai.ts")}
+2025-10-30T21:13:13.312854Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:13:19.513044Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/anthropic.ts")}
+2025-10-30T21:13:19.513054Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:13:25.512942Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/google.ts")}
+2025-10-30T21:13:25.512952Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:13:30.412990Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/deepseek.ts")}
+2025-10-30T21:13:30.413006Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:13:35.613482Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/src/index.ts")}
+2025-10-30T21:13:35.613491Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T21:13:48.413464Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/tsconfig.json")}
+2025-10-30T21:13:48.413473Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:14:02.413097Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/tsconfig.json")}
+2025-10-30T21:14:02.413107Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T21:14:32.113007Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/package.json")}
+2025-10-30T21:14:32.113017Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T21:14:43.412517Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/package.json")}
+2025-10-30T21:14:43.412526Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:07:35.010425Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tools/mcp-supabase/dist"), AnchoredSystemPathBuf("packages/shared/dist"), AnchoredSystemPathBuf("packages/shared/dist/index.js"), AnchoredSystemPathBuf("packages/shared/dist/index.mjs"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.cjs"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.js")}
+2025-10-30T22:07:35.010477Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }, WorkspacePackage { name: Other("mcp-supabase"), path: AnchoredSystemPathBuf("tools/mcp-supabase") }}))
+2025-10-30T22:07:35.510332Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.d.ts"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.d.cts")}
+2025-10-30T22:07:35.510342Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("mcp-supabase"), path: AnchoredSystemPathBuf("tools/mcp-supabase") }}))
+2025-10-30T22:07:35.610273Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.mts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.ts")}
+2025-10-30T22:07:35.610282Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:07:36.010271Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist"), AnchoredSystemPathBuf("services/dispatcher/dist/index.cjs"), AnchoredSystemPathBuf("services/dispatcher/dist/index.js")}
+2025-10-30T22:07:36.010281Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:07:36.110376Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/dist"), AnchoredSystemPathBuf("services/renderer/dist/index.cjs"), AnchoredSystemPathBuf("services/renderer/dist/index.js")}
+2025-10-30T22:07:36.110386Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:08:43.510939Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/tsconfig.json")}
+2025-10-30T22:08:43.510948Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:08:53.610565Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/tsconfig.json")}
+2025-10-30T22:08:53.610574Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:09:37.311142Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/runTask.ts")}
+2025-10-30T22:09:37.311152Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:10:09.410538Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/runTask.ts")}
+2025-10-30T22:10:09.410548Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:10:44.711101Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/tsconfig.json")}
+2025-10-30T22:10:44.711115Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:10:53.610785Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/src/types"), AnchoredSystemPathBuf("services/renderer/src/types/pngjs.d.ts")}
+2025-10-30T22:10:53.610796Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:11:11.310260Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.js"), AnchoredSystemPathBuf("services/dispatcher/dist/index.cjs")}
+2025-10-30T22:11:11.310270Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:11:12.410519Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.d.ts"), AnchoredSystemPathBuf("services/dispatcher/dist/index.d.cts")}
+2025-10-30T22:11:12.410530Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:11:20.010561Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/dist/index.js"), AnchoredSystemPathBuf("services/renderer/dist/index.cjs")}
+2025-10-30T22:11:20.010571Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:11:20.110560Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/dist/index.js"), AnchoredSystemPathBuf("services/renderer/dist/index.cjs")}
+2025-10-30T22:11:20.110587Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:11:21.010428Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/dist/index.d.cts"), AnchoredSystemPathBuf("services/renderer/dist/index.d.ts")}
+2025-10-30T22:11:21.010442Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:11:29.109654Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.js"), AnchoredSystemPathBuf("packages/shared/dist/index.mjs"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.js"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.cjs")}
+2025-10-30T22:11:29.109666Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("mcp-supabase"), path: AnchoredSystemPathBuf("tools/mcp-supabase") }, WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:11:29.210600Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.js"), AnchoredSystemPathBuf("packages/shared/dist/index.mjs"), AnchoredSystemPathBuf("packages/shared/dist/index.js"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.cjs")}
+2025-10-30T22:11:29.210611Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }, WorkspacePackage { name: Other("mcp-supabase"), path: AnchoredSystemPathBuf("tools/mcp-supabase") }}))
+2025-10-30T22:11:29.711038Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.mts"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.d.ts"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.d.cts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.ts")}
+2025-10-30T22:11:29.711051Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("mcp-supabase"), path: AnchoredSystemPathBuf("tools/mcp-supabase") }, WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:11:30.010302Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.d.cts"), AnchoredSystemPathBuf("tools/mcp-supabase/dist/server.d.ts")}
+2025-10-30T22:11:30.010312Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("mcp-supabase"), path: AnchoredSystemPathBuf("tools/mcp-supabase") }}))
+2025-10-30T22:11:30.111019Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.ts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.mts")}
+2025-10-30T22:11:30.111031Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:11:30.311096Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/dist/index.js"), AnchoredSystemPathBuf("services/dispatcher/dist/index.js"), AnchoredSystemPathBuf("services/renderer/dist/index.cjs"), AnchoredSystemPathBuf("services/dispatcher/dist/index.cjs")}
+2025-10-30T22:11:30.311119Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }, WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:11:30.911385Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/dist/index.d.cts"), AnchoredSystemPathBuf("services/renderer/dist/index.d.ts")}
+2025-10-30T22:11:30.911399Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:11:31.010831Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.d.ts"), AnchoredSystemPathBuf("services/dispatcher/dist/index.d.cts")}
+2025-10-30T22:11:31.010840Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:11:31.409669Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/dist/index.d.cts"), AnchoredSystemPathBuf("services/renderer/dist/index.d.ts")}
+2025-10-30T22:11:31.409679Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:11:31.610769Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.d.cts"), AnchoredSystemPathBuf("services/dispatcher/dist/index.d.ts")}
+2025-10-30T22:11:31.610779Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:13:40.010211Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/generator.ts")}
+2025-10-30T22:13:40.010219Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:16:18.410670Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tmp.cjs")}
+2025-10-30T22:16:18.410727Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-30T22:17:24.110237Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tmp.ts")}
+2025-10-30T22:17:24.110246Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-30T22:17:24.610395Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("tmp.ts")}
+2025-10-30T22:17:24.610405Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-30T22:18:02.609874Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/index.ts")}
+2025-10-30T22:18:02.609883Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:18:10.210968Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/generator.ts")}
+2025-10-30T22:18:10.210978Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:18:16.009817Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/runTask.ts")}
+2025-10-30T22:18:16.009827Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:18:20.810813Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/harness.ts")}
+2025-10-30T22:18:20.810828Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:18:25.710682Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/types.ts")}
+2025-10-30T22:18:25.710691Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:18:30.411008Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/openai.ts")}
+2025-10-30T22:18:30.411017Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:18:35.810424Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/anthropic.ts")}
+2025-10-30T22:18:35.810434Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:18:41.411120Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/google.ts")}
+2025-10-30T22:18:41.411129Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:18:46.109920Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/deepseek.ts")}
+2025-10-30T22:18:46.109931Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:19:01.610565Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/src/buildHarness.ts")}
+2025-10-30T22:19:01.610578Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:19:28.810634Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/renderer/src/buildHarness.ts")}
+2025-10-30T22:19:28.810644Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("renderer"), path: AnchoredSystemPathBuf("services/renderer") }}))
+2025-10-30T22:23:39.610869Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.js"), AnchoredSystemPathBuf("packages/shared/dist/index.mjs")}
+2025-10-30T22:23:39.610878Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:23:40.110485Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.mts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.ts")}
+2025-10-30T22:23:40.110495Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:23:40.409861Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.ts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.mts")}
+2025-10-30T22:23:40.409871Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:30:48.410686Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/generator.ts")}
+2025-10-30T22:30:48.410694Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T22:31:18.910618Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/package.json")}
+2025-10-30T22:31:18.910630Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:31:19.010875Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/package.json")}
+2025-10-30T22:31:19.010885Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T22:34:11.910408Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.js")}
+2025-10-30T22:34:11.910417Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:17:59.829698Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie"), AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2025-10-30T23:17:59.829708Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-10-30T23:22:34.723993Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/lib/supabaseClient.ts")}
+2025-10-30T23:22:34.724006Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:25:18.220627Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/lib/supabaseClient.ts")}
+2025-10-30T23:25:18.220637Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:28:59.114929Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/types.ts")}
+2025-10-30T23:28:59.114941Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:29:06.714529Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.cjs"), AnchoredSystemPathBuf("packages/shared/dist/index.js")}
+2025-10-30T23:29:06.714540Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:29:07.314402Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.cts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.ts")}
+2025-10-30T23:29:07.314413Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:29:07.614779Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.ts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.cts")}
+2025-10-30T23:29:07.614788Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:30:15.928021Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/providers/google.ts")}
+2025-10-30T23:30:15.928032Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:34:45.609454Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/types.ts"), AnchoredSystemPathBuf("services/dispatcher/src/providers/google.ts")}
+2025-10-30T23:34:45.609480Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }, WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:47:42.487891Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/runTask.ts")}
+2025-10-30T23:47:42.487905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:47:47.686676Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/src/runTask.ts")}
+2025-10-30T23:47:47.686686Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:47:57.987193Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/lib/fetchers.ts")}
+2025-10-30T23:47:57.987203Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:47:58.100829Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/lib/fetchers.ts")}
+2025-10-30T23:47:58.100842Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:48:03.687885Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/lib/fetchers.ts")}
+2025-10-30T23:48:03.687897Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:48:17.288722Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/schemas.ts")}
+2025-10-30T23:48:17.288733Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:48:17.387706Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/schemas.ts")}
+2025-10-30T23:48:17.387717Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:48:23.291265Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/components/ArtifactViewer.tsx")}
+2025-10-30T23:48:23.291276Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:48:36.287751Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/components/ArtifactViewer.tsx")}
+2025-10-30T23:48:36.287764Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:48:42.591291Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/app/task/[id]/page.tsx")}
+2025-10-30T23:48:42.591302Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:48:47.888100Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.js"), AnchoredSystemPathBuf("packages/shared/dist/index.cjs")}
+2025-10-30T23:48:47.888112Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:48:47.987766Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.js"), AnchoredSystemPathBuf("packages/shared/dist/index.cjs")}
+2025-10-30T23:48:47.987776Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:48:48.588104Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.ts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.cts")}
+2025-10-30T23:48:48.588113Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:48:48.888336Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.cts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.ts")}
+2025-10-30T23:48:48.888345Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:51:07.489863Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.cjs"), AnchoredSystemPathBuf("services/dispatcher/dist/index.js")}
+2025-10-30T23:51:07.489873Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:51:08.189814Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.d.ts"), AnchoredSystemPathBuf("services/dispatcher/dist/index.d.cts")}
+2025-10-30T23:51:08.189824Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:51:08.689133Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.d.cts"), AnchoredSystemPathBuf("services/dispatcher/dist/index.d.ts")}
+2025-10-30T23:51:08.689142Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:56:47.392495Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/web/app/task/[id]/page.tsx"), AnchoredSystemPathBuf("apps/web/lib/fetchers.ts"), AnchoredSystemPathBuf("packages/shared/src/schemas.ts"), AnchoredSystemPathBuf("services/dispatcher/src/runTask.ts"), AnchoredSystemPathBuf("apps/web/components/ArtifactViewer.tsx")}
+2025-10-30T23:56:47.392508Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }, WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }, WorkspacePackage { name: Other("web"), path: AnchoredSystemPathBuf("apps/web") }}))
+2025-10-30T23:58:21.693238Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/src/types.ts")}
+2025-10-30T23:58:21.693247Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:58:27.092634Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.js"), AnchoredSystemPathBuf("packages/shared/dist/index.cjs")}
+2025-10-30T23:58:27.092643Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:58:27.792814Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.cts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.ts")}
+2025-10-30T23:58:27.792824Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:58:28.093059Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/shared/dist/index.d.cts"), AnchoredSystemPathBuf("packages/shared/dist/index.d.ts")}
+2025-10-30T23:58:28.093070Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@autobench/shared"), path: AnchoredSystemPathBuf("packages/shared") }}))
+2025-10-30T23:58:33.693318Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.cjs"), AnchoredSystemPathBuf("services/dispatcher/dist/index.js")}
+2025-10-30T23:58:33.693328Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:58:34.392240Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.d.ts"), AnchoredSystemPathBuf("services/dispatcher/dist/index.d.cts")}
+2025-10-30T23:58:34.392249Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))
+2025-10-30T23:58:34.892791Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("services/dispatcher/dist/index.d.ts"), AnchoredSystemPathBuf("services/dispatcher/dist/index.d.cts")}
+2025-10-30T23:58:34.892801Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("dispatcher"), path: AnchoredSystemPathBuf("services/dispatcher") }}))

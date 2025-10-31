@@ -1,0 +1,19 @@
+
+> mcp-supabase@0.1.0 build /Users/maxhenkes/Desktop/onyx/auto-bench/tools/mcp-supabase
+> tsup src/server.ts --format esm,cjs --dts --clean
+
+CLI Building entry: src/server.ts
+CLI Using tsconfig: tsconfig.json
+CLI tsup v7.3.0
+CLI Target: es2020
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+ESM dist/server.js 2.23 KB
+ESM ⚡️ Build success in 20ms
+CJS dist/server.cjs 3.45 KB
+CJS ⚡️ Build success in 20ms
+DTS Build start
+DTS ⚡️ Build success in 588ms
+DTS dist/server.d.ts  20.00 B
+DTS dist/server.d.cts 20.00 B

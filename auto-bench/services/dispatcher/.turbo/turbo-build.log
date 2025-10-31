@@ -1,0 +1,30 @@
+
+> dispatcher@0.1.0 build /Users/maxhenkes/Desktop/onyx/auto-bench/services/dispatcher
+> tsup src/index.ts --format esm,cjs --dts --clean
+
+CLI Building entry: src/index.ts
+CLI Using tsconfig: tsconfig.json
+CLI tsup v7.3.0
+CLI Target: es2020
+CLI Cleaning output folder
+ESM Build start
+CJS Build start
+
+ WARN  [33m▲ [43;33m[[43;30mWARNING[43;33m][0m [1m"import.meta" is not available with the "cjs" output format and will be empty[0m [empty-import-meta]
+
+    src/index.ts:22:89:
+[37m      22 │ ..."undefined" ? __dirname : dirname(fileURLToPath([32mimport.meta[37m.url));
+         ╵                                                    [32m~~~~~~~~~~~[0m
+
+  You need to set the output format to "esm" for "import.meta" to work correctly.
+
+
+
+ESM dist/index.js 19.79 KB
+ESM ⚡️ Build success in 37ms
+CJS dist/index.cjs 21.83 KB
+CJS ⚡️ Build success in 37ms
+DTS Build start
+DTS ⚡️ Build success in 1277ms
+DTS dist/index.d.ts  13.00 B
+DTS dist/index.d.cts 13.00 B
